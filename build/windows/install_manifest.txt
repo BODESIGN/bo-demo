@@ -1,0 +1,9 @@
+C:/BO/studio/custom/with git/bo/build/windows/runner/Debug/data/icudtl.dat
+C:/BO/studio/custom/with git/bo/build/windows/runner/Debug/flutter_windows.dll
+C:/BO/studio/custom/with git/bo/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/BO/studio/custom/with git/bo/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/BO/studio/custom/with git/bo/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/BO/studio/custom/with git/bo/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/BO/studio/custom/with git/bo/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/BO/studio/custom/with git/bo/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/BO/studio/custom/with git/bo/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
